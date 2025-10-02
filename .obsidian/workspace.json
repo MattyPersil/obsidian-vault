@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B2/ROUTAGE/ROUTAGE.md",
+                "file": "SN1/Atelier Serveur Web/Exercice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROUTAGE"
+              "title": "Exercice"
             }
           }
         ]
@@ -169,8 +169,8 @@
   },
   "active": "e81dc511a7b7a6aa",
   "lastOpenFiles": [
-    "home.md",
     "B2/ROUTAGE/ROUTAGE.md",
+    "home.md",
     "B2/ROUTAGE/switch.md",
     "B2/ROUTAGE/Router CISCO 1921.pdf",
     "Pasted image 20250929145355.png",
