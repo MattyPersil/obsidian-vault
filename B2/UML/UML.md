@@ -72,3 +72,37 @@ end
 
 end
 ```
+# TP3
+```mermaid
+sequenceDiagram
+    User->>Site: Recherche train
+	    Site->>Site: Applique filtres
+	alt Si au moins un train correspond
+
+	    Site--)User: Affiche les trains
+    loop Recherche un train
+    User->>Site: Séléctionne un train
+		Site->>Site: Accède aux données du train et érifie la disponibilité de la place
+    alt Il reste au moins une place disponible
+        Site--)User:Affiche les détails
+    
+    User->>Site: Envoie les données de réservation
+		Site->>Site: Vérifie la disponibilité
+        alt La place est disponible
+        Site->>Site: Enregistre la réservation
+        Site--)User: Confirme la réservation
+        else La place n'est plus disponible
+        Site --) User: Propose d'autres choix
+        end
+
+
+    else Il n'y a plus de place dans le train
+        Site --) User: Propose d'autres choix
+
+    end
+    end
+    else Aucun train ne correspond
+    Site--)User: Affiche un message d'erreur    
+    end
+    
+```
