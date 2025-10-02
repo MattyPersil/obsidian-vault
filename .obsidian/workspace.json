@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SN1/Atelier Serveur Web/Exercice.md",
+                "file": "B2/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exercice"
+              "title": "_index"
             }
           }
         ]
@@ -167,10 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e81dc511a7b7a6aa",
+  "active": "b6e392276e498f30",
   "lastOpenFiles": [
-    "B2/ROUTAGE/ROUTAGE.md",
+    "SN1/_index.md",
+    "B2/_index.md",
+    "SN1/Atelier Serveur Web/Exercice.md",
+    "2025-09-25.md",
     "home.md",
+    "B2/ROUTAGE/ROUTAGE.md",
     "B2/ROUTAGE/switch.md",
     "B2/ROUTAGE/Router CISCO 1921.pdf",
     "Pasted image 20250929145355.png",
@@ -189,7 +193,6 @@
     "B2/CultureG/IMAGES",
     "B2/UML/UML.md",
     "B2/CultureG",
-    "2025-09-25.md",
     "B2/RESEAU/Réseau.md",
     "B2/RESEAU",
     "B2/TICKETING/script-glpi.sh.md",
@@ -212,9 +215,6 @@
     "SN1/Projet com/Projet com.md",
     "SN1/Anglais/Anglais 2025 02 11.md",
     "SN1/Dossier Veille/Rust.md",
-    "SN1/Dossier Veille/Dossier Veille.md",
-    "SN1/HEP Creativité/Sans titre.md",
-    "SN1/Home/Create CP for rust bot.md",
     "Untitled.canvas"
   ]
 }
