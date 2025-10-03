@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "75930e9fd6e40a7e",
+        "id": "0d3e1f29545ff726",
         "type": "tabs",
         "children": [
           {
-            "id": "b6e392276e498f30",
+            "id": "3044ac462de7ff78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "B2/Alan/Documentation%20SN2%2020252026/Le serveur SQL Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "547818c15afd9f1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B2/Alan/Documentation%20SN2%2020252026/ADMINISTRATION DE BDD SQL SERVER.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ADMINISTRATION DE BDD SQL SERVER"
+              "title": "Le serveur SQL Server"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,35 +167,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e81dc511a7b7a6aa",
+  "active": "3044ac462de7ff78",
   "lastOpenFiles": [
+    "B2/Alan/Documentation%20SN2%2020252026/Outils SQL Server.md",
+    "B2/Alan/Documentation%20SN2%2020252026/MODULES.md",
+    "B2/Alan/Documentation%20SN2%2020252026/CS FONDAMENTAUX ET TU.md",
+    "B2/Alan/Documentation%20SN2%2020252026/Révision Merise - UML.md",
+    "B2/TICKETING/Ticketing.md",
+    "B2/ROUTAGE/ROUTAGE.md",
+    "B2/ROUTAGE/Router CISCO 1921.pdf",
+    "Home.md",
+    "B2/Alan/Documentation%20SN2%2020252026/ADMINISTRATION DE BDD SQL SERVER.md",
     "B2/Alan/Documentation%20SN2%2020252026/media/Pasted image 20251003124137.png",
     "B2/Alan/Documentation%20SN2%2020252026/media/Pasted image 20251003092858.png",
     "B2/UML/UML.md",
     "B2/Alan/Documentation%20SN2%2020252026/media",
-    "B2/Alan/Documentation%20SN2%2020252026/Révision Merise - UML.md",
     "B2/Alan/Documentation%20SN2%2020252026/Principe de base de la création de BDD.md",
-    "B2/Alan/Documentation%20SN2%2020252026/Outils SQL Server.md",
     "B2/Alan/Documentation%20SN2%2020252026/Outils CS.md",
-    "B2/Alan/Documentation%20SN2%2020252026/MODULES.md",
     "B2/Alan/Documentation%20SN2%2020252026/Le serveur SQL Server.md",
-    "B2/Alan/Documentation%20SN2%2020252026/CS FONDAMENTAUX ET TU.md",
     "B2/Alan/Documentation%20SN2%2020252026/CONCEPTION EXPLOITATION BDD - SQL SERVER.md",
-    "B2/Alan/Documentation%20SN2%2020252026/ADMINISTRATION DE BDD SQL SERVER.md",
     "B2/Alan/Documentation%20SN2%2020252026",
     "B2/Alan",
     "B2/UML/TP4.drawio",
     "B2/UML/TP3.drawio",
     "B2/SQLServer/jesaisplus.drawio",
     "B2/_index.md",
-    "Home.md",
     "SN1/_index.md",
     "SN1/Atelier Serveur Web/Exercice.md",
     "2025-09-25.md",
     "home.md",
-    "B2/ROUTAGE/ROUTAGE.md",
     "B2/ROUTAGE/switch.md",
-    "B2/ROUTAGE/Router CISCO 1921.pdf",
     "Pasted image 20250929145355.png",
     "Pasted image 20250929140402.png",
     "Pasted image 20250929140348.png",
@@ -226,7 +212,6 @@
     "B2/CultureG",
     "B2/RESEAU/Réseau.md",
     "B2/TICKETING/script-glpi.sh.md",
-    "B2/TICKETING/Ticketing.md",
     "_TEMPLATES/Start School.md",
     "_TEMPLATES/Start Perso.md",
     "Untitled.canvas"
